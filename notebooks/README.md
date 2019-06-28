@@ -8,3 +8,5 @@
 
 3. **TS_Seq2Seq_Conv_Full.ipynb** --  Full-fledged WaveNet CNN model for time series forecasting. 
    Walks through constructing a WaveNet CNN model including all major components (dilated causal convolutions, gated activations, skip and residual connections) and using it to generate predictions.
+
+4. **TS_Seq2Seq_Conv_Full_Exog.ipynb** --  Full-fledged WaveNet CNN model for time series forecasting, incorporating exogenous features.
